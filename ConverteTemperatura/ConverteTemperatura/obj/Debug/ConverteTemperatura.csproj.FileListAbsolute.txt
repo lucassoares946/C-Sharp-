@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\ConverteTemperatura\ConverteTemperatura\bin\Debug\ConverteTemperatura.exe.config
+C:\Users\Lucas\source\repos\ConverteTemperatura\ConverteTemperatura\bin\Debug\ConverteTemperatura.exe
+C:\Users\Lucas\source\repos\ConverteTemperatura\ConverteTemperatura\bin\Debug\ConverteTemperatura.pdb
+C:\Users\Lucas\source\repos\ConverteTemperatura\ConverteTemperatura\obj\Debug\ConverteTemperatura.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\ConverteTemperatura\ConverteTemperatura\obj\Debug\ConverteTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ConverteTemperatura\ConverteTemperatura\obj\Debug\ConverteTemperatura.exe
+C:\Users\Lucas\source\repos\ConverteTemperatura\ConverteTemperatura\obj\Debug\ConverteTemperatura.pdb

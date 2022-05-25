@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Exercicio19CSharp\Exercicio19CSharp\bin\Debug\Exercicio19CSharp.exe.config
+C:\Users\Lucas\source\repos\Exercicio19CSharp\Exercicio19CSharp\bin\Debug\Exercicio19CSharp.exe
+C:\Users\Lucas\source\repos\Exercicio19CSharp\Exercicio19CSharp\bin\Debug\Exercicio19CSharp.pdb
+C:\Users\Lucas\source\repos\Exercicio19CSharp\Exercicio19CSharp\obj\Debug\Exercicio19CSharp.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Exercicio19CSharp\Exercicio19CSharp\obj\Debug\Exercicio19CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Exercicio19CSharp\Exercicio19CSharp\obj\Debug\Exercicio19CSharp.exe
+C:\Users\Lucas\source\repos\Exercicio19CSharp\Exercicio19CSharp\obj\Debug\Exercicio19CSharp.pdb

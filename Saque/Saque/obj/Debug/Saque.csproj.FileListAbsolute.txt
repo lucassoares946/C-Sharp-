@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Saque\Saque\bin\Debug\Saque.exe.config
+C:\Users\Lucas\source\repos\Saque\Saque\bin\Debug\Saque.exe
+C:\Users\Lucas\source\repos\Saque\Saque\bin\Debug\Saque.pdb
+C:\Users\Lucas\source\repos\Saque\Saque\obj\Debug\Saque.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Saque\Saque\obj\Debug\Saque.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Saque\Saque\obj\Debug\Saque.exe
+C:\Users\Lucas\source\repos\Saque\Saque\obj\Debug\Saque.pdb

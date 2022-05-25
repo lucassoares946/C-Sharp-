@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Repeticao8\Repeticao8\bin\Debug\Repeticao8.exe.config
+C:\Users\Lucas\source\repos\Repeticao8\Repeticao8\bin\Debug\Repeticao8.exe
+C:\Users\Lucas\source\repos\Repeticao8\Repeticao8\bin\Debug\Repeticao8.pdb
+C:\Users\Lucas\source\repos\Repeticao8\Repeticao8\obj\Debug\Repeticao8.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Repeticao8\Repeticao8\obj\Debug\Repeticao8.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Repeticao8\Repeticao8\obj\Debug\Repeticao8.exe
+C:\Users\Lucas\source\repos\Repeticao8\Repeticao8\obj\Debug\Repeticao8.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Exercicio25CSHarpCorreto\Exercicio25CSHarpCorreto\bin\Debug\Exercicio25CSHarpCorreto.exe.config
+C:\Users\Lucas\source\repos\Exercicio25CSHarpCorreto\Exercicio25CSHarpCorreto\bin\Debug\Exercicio25CSHarpCorreto.exe
+C:\Users\Lucas\source\repos\Exercicio25CSHarpCorreto\Exercicio25CSHarpCorreto\bin\Debug\Exercicio25CSHarpCorreto.pdb
+C:\Users\Lucas\source\repos\Exercicio25CSHarpCorreto\Exercicio25CSHarpCorreto\obj\Debug\Exercicio25CSHarpCorreto.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Exercicio25CSHarpCorreto\Exercicio25CSHarpCorreto\obj\Debug\Exercicio25CSHarpCorreto.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Exercicio25CSHarpCorreto\Exercicio25CSHarpCorreto\obj\Debug\Exercicio25CSHarpCorreto.exe
+C:\Users\Lucas\source\repos\Exercicio25CSHarpCorreto\Exercicio25CSHarpCorreto\obj\Debug\Exercicio25CSHarpCorreto.pdb

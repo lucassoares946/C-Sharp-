@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Exercicio9Lista1\Exercicio9Lista1\bin\Debug\Exercicio9Lista1.exe.config
+C:\Users\Lucas\source\repos\Exercicio9Lista1\Exercicio9Lista1\bin\Debug\Exercicio9Lista1.exe
+C:\Users\Lucas\source\repos\Exercicio9Lista1\Exercicio9Lista1\bin\Debug\Exercicio9Lista1.pdb
+C:\Users\Lucas\source\repos\Exercicio9Lista1\Exercicio9Lista1\obj\Debug\Exercicio9Lista1.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Exercicio9Lista1\Exercicio9Lista1\obj\Debug\Exercicio9Lista1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Exercicio9Lista1\Exercicio9Lista1\obj\Debug\Exercicio9Lista1.exe
+C:\Users\Lucas\source\repos\Exercicio9Lista1\Exercicio9Lista1\obj\Debug\Exercicio9Lista1.pdb

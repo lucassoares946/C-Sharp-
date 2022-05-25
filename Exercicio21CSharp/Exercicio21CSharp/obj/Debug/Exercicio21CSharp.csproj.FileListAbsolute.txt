@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Exercicio21CSharp\Exercicio21CSharp\bin\Debug\Exercicio21CSharp.exe.config
+C:\Users\Lucas\source\repos\Exercicio21CSharp\Exercicio21CSharp\bin\Debug\Exercicio21CSharp.exe
+C:\Users\Lucas\source\repos\Exercicio21CSharp\Exercicio21CSharp\bin\Debug\Exercicio21CSharp.pdb
+C:\Users\Lucas\source\repos\Exercicio21CSharp\Exercicio21CSharp\obj\Debug\Exercicio21CSharp.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Exercicio21CSharp\Exercicio21CSharp\obj\Debug\Exercicio21CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Exercicio21CSharp\Exercicio21CSharp\obj\Debug\Exercicio21CSharp.exe
+C:\Users\Lucas\source\repos\Exercicio21CSharp\Exercicio21CSharp\obj\Debug\Exercicio21CSharp.pdb

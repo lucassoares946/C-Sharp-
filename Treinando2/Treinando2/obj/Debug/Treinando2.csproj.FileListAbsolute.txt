@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Treinando2\Treinando2\obj\Debug\Treinando2.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Treinando2\Treinando2\obj\Debug\Treinando2.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Treinando2\Treinando2\bin\Debug\Treinando2.exe.config
+C:\Users\Lucas\source\repos\Treinando2\Treinando2\bin\Debug\Treinando2.exe
+C:\Users\Lucas\source\repos\Treinando2\Treinando2\bin\Debug\Treinando2.pdb
+C:\Users\Lucas\source\repos\Treinando2\Treinando2\obj\Debug\Treinando2.exe
+C:\Users\Lucas\source\repos\Treinando2\Treinando2\obj\Debug\Treinando2.pdb

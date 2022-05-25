@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\VolumePiramide\VolumePiramide\obj\Debug\VolumePiramide.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\VolumePiramide\VolumePiramide\obj\Debug\VolumePiramide.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\VolumePiramide\VolumePiramide\bin\Debug\VolumePiramide.exe.config
+C:\Users\Lucas\source\repos\VolumePiramide\VolumePiramide\bin\Debug\VolumePiramide.exe
+C:\Users\Lucas\source\repos\VolumePiramide\VolumePiramide\bin\Debug\VolumePiramide.pdb
+C:\Users\Lucas\source\repos\VolumePiramide\VolumePiramide\obj\Debug\VolumePiramide.exe
+C:\Users\Lucas\source\repos\VolumePiramide\VolumePiramide\obj\Debug\VolumePiramide.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\VolumeAreaCilindro\VolumeAreaCilindro\obj\Debug\VolumeAreaCilindro.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\VolumeAreaCilindro\VolumeAreaCilindro\obj\Debug\VolumeAreaCilindro.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\VolumeAreaCilindro\VolumeAreaCilindro\bin\Debug\VolumeAreaCilindro.exe.config
+C:\Users\Lucas\source\repos\VolumeAreaCilindro\VolumeAreaCilindro\bin\Debug\VolumeAreaCilindro.exe
+C:\Users\Lucas\source\repos\VolumeAreaCilindro\VolumeAreaCilindro\bin\Debug\VolumeAreaCilindro.pdb
+C:\Users\Lucas\source\repos\VolumeAreaCilindro\VolumeAreaCilindro\obj\Debug\VolumeAreaCilindro.exe
+C:\Users\Lucas\source\repos\VolumeAreaCilindro\VolumeAreaCilindro\obj\Debug\VolumeAreaCilindro.pdb

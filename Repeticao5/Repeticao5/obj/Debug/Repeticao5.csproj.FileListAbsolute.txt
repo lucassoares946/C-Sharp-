@@ -1,0 +1,6 @@
+C:\Users\Lucas\source\repos\Repeticao5\Repeticao5\bin\Debug\Repeticao5.exe.config
+C:\Users\Lucas\source\repos\Repeticao5\Repeticao5\bin\Debug\Repeticao5.exe
+C:\Users\Lucas\source\repos\Repeticao5\Repeticao5\bin\Debug\Repeticao5.pdb
+C:\Users\Lucas\source\repos\Repeticao5\Repeticao5\obj\Debug\Repeticao5.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Repeticao5\Repeticao5\obj\Debug\Repeticao5.exe
+C:\Users\Lucas\source\repos\Repeticao5\Repeticao5\obj\Debug\Repeticao5.pdb

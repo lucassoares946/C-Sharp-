@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\ConverteADias\ConverteADias\bin\Debug\ConverteADias.exe.config
+C:\Users\Lucas\source\repos\ConverteADias\ConverteADias\bin\Debug\ConverteADias.exe
+C:\Users\Lucas\source\repos\ConverteADias\ConverteADias\bin\Debug\ConverteADias.pdb
+C:\Users\Lucas\source\repos\ConverteADias\ConverteADias\obj\Debug\ConverteADias.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\ConverteADias\ConverteADias\obj\Debug\ConverteADias.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ConverteADias\ConverteADias\obj\Debug\ConverteADias.exe
+C:\Users\Lucas\source\repos\ConverteADias\ConverteADias\obj\Debug\ConverteADias.pdb

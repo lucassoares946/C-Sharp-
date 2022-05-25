@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Exercicio11Lista1\Exercicio11Lista1\bin\Debug\Exercicio11Lista1.exe.config
+C:\Users\Lucas\source\repos\Exercicio11Lista1\Exercicio11Lista1\bin\Debug\Exercicio11Lista1.exe
+C:\Users\Lucas\source\repos\Exercicio11Lista1\Exercicio11Lista1\bin\Debug\Exercicio11Lista1.pdb
+C:\Users\Lucas\source\repos\Exercicio11Lista1\Exercicio11Lista1\obj\Debug\Exercicio11Lista1.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Exercicio11Lista1\Exercicio11Lista1\obj\Debug\Exercicio11Lista1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Exercicio11Lista1\Exercicio11Lista1\obj\Debug\Exercicio11Lista1.exe
+C:\Users\Lucas\source\repos\Exercicio11Lista1\Exercicio11Lista1\obj\Debug\Exercicio11Lista1.pdb

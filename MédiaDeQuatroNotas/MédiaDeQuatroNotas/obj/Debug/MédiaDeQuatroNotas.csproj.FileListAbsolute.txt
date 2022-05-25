@@ -1,0 +1,6 @@
+C:\Users\Lucas\source\repos\MédiaDeQuatroNotas\MédiaDeQuatroNotas\obj\Debug\MédiaDeQuatroNotas.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\MédiaDeQuatroNotas\MédiaDeQuatroNotas\bin\Debug\MédiaDeQuatroNotas.exe.config
+C:\Users\Lucas\source\repos\MédiaDeQuatroNotas\MédiaDeQuatroNotas\bin\Debug\MédiaDeQuatroNotas.exe
+C:\Users\Lucas\source\repos\MédiaDeQuatroNotas\MédiaDeQuatroNotas\bin\Debug\MédiaDeQuatroNotas.pdb
+C:\Users\Lucas\source\repos\MédiaDeQuatroNotas\MédiaDeQuatroNotas\obj\Debug\MédiaDeQuatroNotas.exe
+C:\Users\Lucas\source\repos\MédiaDeQuatroNotas\MédiaDeQuatroNotas\obj\Debug\MédiaDeQuatroNotas.pdb

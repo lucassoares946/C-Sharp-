@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Exercicio23Lista2\Exercicio23Lista2\bin\Debug\Exercicio23Lista2.exe.config
+C:\Users\Lucas\source\repos\Exercicio23Lista2\Exercicio23Lista2\bin\Debug\Exercicio23Lista2.exe
+C:\Users\Lucas\source\repos\Exercicio23Lista2\Exercicio23Lista2\bin\Debug\Exercicio23Lista2.pdb
+C:\Users\Lucas\source\repos\Exercicio23Lista2\Exercicio23Lista2\obj\Debug\Exercicio23Lista2.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Exercicio23Lista2\Exercicio23Lista2\obj\Debug\Exercicio23Lista2.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Exercicio23Lista2\Exercicio23Lista2\obj\Debug\Exercicio23Lista2.exe
+C:\Users\Lucas\source\repos\Exercicio23Lista2\Exercicio23Lista2\obj\Debug\Exercicio23Lista2.pdb

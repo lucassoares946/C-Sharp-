@@ -1,0 +1,6 @@
+C:\Users\Lucas\source\repos\DivisivelNumero\DivisivelNumero\obj\Debug\DivisivelNumero.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\DivisivelNumero\DivisivelNumero\bin\Debug\DivisivelNumero.exe.config
+C:\Users\Lucas\source\repos\DivisivelNumero\DivisivelNumero\bin\Debug\DivisivelNumero.exe
+C:\Users\Lucas\source\repos\DivisivelNumero\DivisivelNumero\bin\Debug\DivisivelNumero.pdb
+C:\Users\Lucas\source\repos\DivisivelNumero\DivisivelNumero\obj\Debug\DivisivelNumero.exe
+C:\Users\Lucas\source\repos\DivisivelNumero\DivisivelNumero\obj\Debug\DivisivelNumero.pdb

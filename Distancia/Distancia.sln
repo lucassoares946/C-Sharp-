@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distancia", "Distancia\Distancia.csproj", "{A44BDDB9-BB40-4BB3-BF06-795D864BC14B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A44BDDB9-BB40-4BB3-BF06-795D864BC14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44BDDB9-BB40-4BB3-BF06-795D864BC14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44BDDB9-BB40-4BB3-BF06-795D864BC14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44BDDB9-BB40-4BB3-BF06-795D864BC14B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B18D3AE-7937-48AA-A8C0-ABE642A78823}
+	EndGlobalSection
+EndGlobal

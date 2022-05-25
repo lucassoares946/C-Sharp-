@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Exercicio7Lista1\Exercicio7Lista1\bin\Debug\Exercicio7Lista1.exe.config
+C:\Users\Lucas\source\repos\Exercicio7Lista1\Exercicio7Lista1\bin\Debug\Exercicio7Lista1.exe
+C:\Users\Lucas\source\repos\Exercicio7Lista1\Exercicio7Lista1\bin\Debug\Exercicio7Lista1.pdb
+C:\Users\Lucas\source\repos\Exercicio7Lista1\Exercicio7Lista1\obj\Debug\Exercicio7Lista1.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Exercicio7Lista1\Exercicio7Lista1\obj\Debug\Exercicio7Lista1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Exercicio7Lista1\Exercicio7Lista1\obj\Debug\Exercicio7Lista1.exe
+C:\Users\Lucas\source\repos\Exercicio7Lista1\Exercicio7Lista1\obj\Debug\Exercicio7Lista1.pdb

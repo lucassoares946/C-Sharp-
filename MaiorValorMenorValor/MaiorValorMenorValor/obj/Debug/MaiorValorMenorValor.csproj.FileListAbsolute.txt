@@ -1,0 +1,6 @@
+C:\Users\Lucas\source\repos\MaiorValorMenorValor\MaiorValorMenorValor\bin\Debug\MaiorValorMenorValor.exe.config
+C:\Users\Lucas\source\repos\MaiorValorMenorValor\MaiorValorMenorValor\bin\Debug\MaiorValorMenorValor.exe
+C:\Users\Lucas\source\repos\MaiorValorMenorValor\MaiorValorMenorValor\bin\Debug\MaiorValorMenorValor.pdb
+C:\Users\Lucas\source\repos\MaiorValorMenorValor\MaiorValorMenorValor\obj\Debug\MaiorValorMenorValor.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\MaiorValorMenorValor\MaiorValorMenorValor\obj\Debug\MaiorValorMenorValor.exe
+C:\Users\Lucas\source\repos\MaiorValorMenorValor\MaiorValorMenorValor\obj\Debug\MaiorValorMenorValor.pdb

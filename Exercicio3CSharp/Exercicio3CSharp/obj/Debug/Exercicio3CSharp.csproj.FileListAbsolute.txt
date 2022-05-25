@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Exercicio3CSharp\Exercicio3CSharp\obj\Debug\Exercicio3CSharp.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Exercicio3CSharp\Exercicio3CSharp\obj\Debug\Exercicio3CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Exercicio3CSharp\Exercicio3CSharp\bin\Debug\Exercicio3CSharp.exe.config
+C:\Users\Lucas\source\repos\Exercicio3CSharp\Exercicio3CSharp\bin\Debug\Exercicio3CSharp.exe
+C:\Users\Lucas\source\repos\Exercicio3CSharp\Exercicio3CSharp\bin\Debug\Exercicio3CSharp.pdb
+C:\Users\Lucas\source\repos\Exercicio3CSharp\Exercicio3CSharp\obj\Debug\Exercicio3CSharp.exe
+C:\Users\Lucas\source\repos\Exercicio3CSharp\Exercicio3CSharp\obj\Debug\Exercicio3CSharp.pdb

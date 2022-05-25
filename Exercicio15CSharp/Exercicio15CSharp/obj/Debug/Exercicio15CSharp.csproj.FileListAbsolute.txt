@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Exercicio15CSharp\Exercicio15CSharp\bin\Debug\Exercicio15CSharp.exe.config
+C:\Users\Lucas\source\repos\Exercicio15CSharp\Exercicio15CSharp\bin\Debug\Exercicio15CSharp.exe
+C:\Users\Lucas\source\repos\Exercicio15CSharp\Exercicio15CSharp\bin\Debug\Exercicio15CSharp.pdb
+C:\Users\Lucas\source\repos\Exercicio15CSharp\Exercicio15CSharp\obj\Debug\Exercicio15CSharp.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Exercicio15CSharp\Exercicio15CSharp\obj\Debug\Exercicio15CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Exercicio15CSharp\Exercicio15CSharp\obj\Debug\Exercicio15CSharp.exe
+C:\Users\Lucas\source\repos\Exercicio15CSharp\Exercicio15CSharp\obj\Debug\Exercicio15CSharp.pdb

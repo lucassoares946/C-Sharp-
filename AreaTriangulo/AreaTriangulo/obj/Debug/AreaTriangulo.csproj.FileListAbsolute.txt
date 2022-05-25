@@ -1,0 +1,6 @@
+C:\Users\Lucas\source\repos\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.exe.config
+C:\Users\Lucas\source\repos\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.exe
+C:\Users\Lucas\source\repos\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.pdb
+C:\Users\Lucas\source\repos\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.exe
+C:\Users\Lucas\source\repos\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Lista3Exercicio5Certo\Lista3Exercicio5Certo\bin\Debug\Lista3Exercicio5Certo.exe.config
+C:\Users\Lucas\source\repos\Lista3Exercicio5Certo\Lista3Exercicio5Certo\bin\Debug\Lista3Exercicio5Certo.exe
+C:\Users\Lucas\source\repos\Lista3Exercicio5Certo\Lista3Exercicio5Certo\bin\Debug\Lista3Exercicio5Certo.pdb
+C:\Users\Lucas\source\repos\Lista3Exercicio5Certo\Lista3Exercicio5Certo\obj\Debug\Lista3Exercicio5Certo.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Lista3Exercicio5Certo\Lista3Exercicio5Certo\obj\Debug\Lista3Exercicio5Certo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Lista3Exercicio5Certo\Lista3Exercicio5Certo\obj\Debug\Lista3Exercicio5Certo.exe
+C:\Users\Lucas\source\repos\Lista3Exercicio5Certo\Lista3Exercicio5Certo\obj\Debug\Lista3Exercicio5Certo.pdb

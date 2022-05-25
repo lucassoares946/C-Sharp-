@@ -1,0 +1,2 @@
+C:\Users\Lucas\source\repos\ParOuImpar\ParOuImpar\obj\Debug\ParOuImpar.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\ParOuImpar\ParOuImpar\obj\Debug\ParOuImpar.csproj.CoreCompileInputs.cache

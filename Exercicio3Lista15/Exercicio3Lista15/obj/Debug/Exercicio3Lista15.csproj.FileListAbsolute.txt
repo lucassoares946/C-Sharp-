@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Exercicio3Lista15\Exercicio3Lista15\bin\Debug\Exercicio3Lista15.exe.config
+C:\Users\Lucas\source\repos\Exercicio3Lista15\Exercicio3Lista15\bin\Debug\Exercicio3Lista15.exe
+C:\Users\Lucas\source\repos\Exercicio3Lista15\Exercicio3Lista15\bin\Debug\Exercicio3Lista15.pdb
+C:\Users\Lucas\source\repos\Exercicio3Lista15\Exercicio3Lista15\obj\Debug\Exercicio3Lista15.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Exercicio3Lista15\Exercicio3Lista15\obj\Debug\Exercicio3Lista15.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Exercicio3Lista15\Exercicio3Lista15\obj\Debug\Exercicio3Lista15.exe
+C:\Users\Lucas\source\repos\Exercicio3Lista15\Exercicio3Lista15\obj\Debug\Exercicio3Lista15.pdb

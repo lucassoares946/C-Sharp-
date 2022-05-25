@@ -1,0 +1,6 @@
+C:\Users\Lucas\source\repos\ParOuImpar2\ParOuImpar2\bin\Debug\ParOuImpar2.exe.config
+C:\Users\Lucas\source\repos\ParOuImpar2\ParOuImpar2\bin\Debug\ParOuImpar2.exe
+C:\Users\Lucas\source\repos\ParOuImpar2\ParOuImpar2\bin\Debug\ParOuImpar2.pdb
+C:\Users\Lucas\source\repos\ParOuImpar2\ParOuImpar2\obj\Debug\ParOuImpar2.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ParOuImpar2\ParOuImpar2\obj\Debug\ParOuImpar2.exe
+C:\Users\Lucas\source\repos\ParOuImpar2\ParOuImpar2\obj\Debug\ParOuImpar2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Exercicio9CSharp\Exercicio9CSharp\obj\Debug\Exercicio9CSharp.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Exercicio9CSharp\Exercicio9CSharp\obj\Debug\Exercicio9CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Exercicio9CSharp\Exercicio9CSharp\bin\Debug\Exercicio9CSharp.exe.config
+C:\Users\Lucas\source\repos\Exercicio9CSharp\Exercicio9CSharp\bin\Debug\Exercicio9CSharp.exe
+C:\Users\Lucas\source\repos\Exercicio9CSharp\Exercicio9CSharp\bin\Debug\Exercicio9CSharp.pdb
+C:\Users\Lucas\source\repos\Exercicio9CSharp\Exercicio9CSharp\obj\Debug\Exercicio9CSharp.exe
+C:\Users\Lucas\source\repos\Exercicio9CSharp\Exercicio9CSharp\obj\Debug\Exercicio9CSharp.pdb

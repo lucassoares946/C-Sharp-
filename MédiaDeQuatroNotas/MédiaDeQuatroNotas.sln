@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MédiaDeQuatroNotas", "MédiaDeQuatroNotas\MédiaDeQuatroNotas.csproj", "{8001E0F9-084D-41CC-BE22-8269D73C19CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8001E0F9-084D-41CC-BE22-8269D73C19CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8001E0F9-084D-41CC-BE22-8269D73C19CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8001E0F9-084D-41CC-BE22-8269D73C19CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8001E0F9-084D-41CC-BE22-8269D73C19CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8733354B-10B3-49F3-B036-FD1C499F3B4A}
+	EndGlobalSection
+EndGlobal
